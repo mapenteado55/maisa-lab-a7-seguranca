@@ -1,0 +1,4 @@
+{
+  "gemini": { "apiKey": "COLE_AQUI_SUA_CHAVE" },
+  "oauth":  { "client_secret": "COLE_AQUI_SEU_SECRET" }
+}

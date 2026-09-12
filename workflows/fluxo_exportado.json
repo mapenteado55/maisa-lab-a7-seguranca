@@ -1,4 +1,4 @@
 {
-  "nodes": [{ "parameters": { "apiKey": "sk-lab-FAKE-NOTREAL-0000-TANDER-BOOTCAMP" } }],
-  "credentials": { "openAiApi": { "id": "42", "name": "OpenAI Lab" } }
+  "nodes": [{ "parameters": { "apiKey": "COLE_AQUI_API_KEY_NODE" } }],
+  "credentials": { "openAiApi": { "id": "COLE_ID_AQUI", "name": "COLE_NOME_AQUI_API_OPENAI" } }
 }

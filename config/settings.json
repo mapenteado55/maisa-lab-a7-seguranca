@@ -1,4 +1,4 @@
 {
-  "gemini": { "apiKey": "AIzaSyLAB0FAKE0000NOTREAL0000TANDER7xyz" },
-  "oauth":  { "client_secret": "GOCSPX-LAB-FAKE-NOTREAL-0000000" }
+  "gemini": { "COLE_AQUI_SUA_CHAVE" },
+  "oauth":  { "client_secret": "COLE_AQUI_SEU_SECRET" }
 }
